@@ -32,6 +32,9 @@ Sou o Adriano, desenvolvedor de software com paixão por criar soluções inovad
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adriano-Silva13&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adriano-Silva13&show_icons=true&theme=dark" />
+</a>
 
 
 Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios e projetos!
